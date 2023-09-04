@@ -3,5 +3,5 @@
     <dimen name="big">100dp</dimen>
     <dimen name="medium">50dp</dimen>
     <dimen name="small">10dp</dimen>
-    <dimen name="text_small">18sp</dimen>
+    <dimen name="text_small">20sp</dimen>
 </resources>
