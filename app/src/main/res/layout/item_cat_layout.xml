@@ -4,12 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_margin="8dp">
+    android:layout_margin="@dimen/small">
 
     <androidx.appcompat.widget.AppCompatImageView
         android:id="@+id/imgCat"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="@dimen/big"
+        android:layout_height="@dimen/big"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
