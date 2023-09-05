@@ -1,4 +1,4 @@
-package com.example.testcat.presentation
+package com.example.testcat.view
 
 import android.app.Dialog
 import androidx.appcompat.app.AppCompatActivity

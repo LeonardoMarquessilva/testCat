@@ -15,7 +15,7 @@
         android:theme="@style/Theme.TestCat"
         tools:targetApi="31">
         <activity
-            android:name=".presentation.CatShowActivity"
+            android:name=".view.CatShowActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
